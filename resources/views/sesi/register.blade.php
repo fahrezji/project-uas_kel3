@@ -18,7 +18,7 @@
             <input type="password" name="password" class="form-control">
         </div>
         <div class="mb-3 d-grid">
-            <button name="submit" type="submit" class="btn btn-primary">Register</button>
+            <button name="submit" type="submit" class="btn btn-primary">Registrasi</button>
         </div>
     </form>
 </div>
